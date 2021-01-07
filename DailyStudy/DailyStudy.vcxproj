@@ -19,6 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="20201204.c" />
+    <ClCompile Include="20201214.c" />
     <ClCompile Include="20210107.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
