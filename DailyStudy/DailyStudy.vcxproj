@@ -21,6 +21,17 @@
   <ItemGroup>
     <ClCompile Include="20201204.c" />
     <ClCompile Include="20201214.c" />
+    <ClCompile Include="20201216.c" />
+    <ClCompile Include="20201217.c" />
+    <ClCompile Include="20201221.c" />
+    <ClCompile Include="20201222.c" />
+    <ClCompile Include="20201223.c" />
+    <ClCompile Include="20201224.c" />
+    <ClCompile Include="20201225.c" />
+    <ClCompile Include="20201229.c" />
+    <ClCompile Include="20201231.c" />
+    <ClCompile Include="20210104.c" />
+    <ClCompile Include="20210105.c" />
     <ClCompile Include="20210107.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
