@@ -48,6 +48,7 @@ void menu() {
 
 int main() {
 	int input = 0;
+	srand((unsigned int)time(NULL));
 	do {
 		menu();
 		printf("please choose:");
