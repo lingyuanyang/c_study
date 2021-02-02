@@ -40,6 +40,7 @@
     <ClCompile Include="20210126.c" />
     <ClCompile Include="20210128.c" />
     <ClCompile Include="20210201.c" />
+    <ClCompile Include="20210202.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
