@@ -41,6 +41,8 @@
     <ClCompile Include="20210128.c" />
     <ClCompile Include="20210201.c" />
     <ClCompile Include="20210202.c" />
+    <ClCompile Include="20210203.c" />
+    <ClCompile Include="20210303.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
